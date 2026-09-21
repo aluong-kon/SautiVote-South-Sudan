@@ -1,0 +1,6 @@
+{
+  "name": "SautiVote South Sudan",
+  "description": "Civic technology prototype exploring secure digital election information, diaspora voter eligibility, candidate directories, and simulated voting workflows for South Sudan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
